@@ -5,9 +5,9 @@ Me presentaré, mi nombre es [Alex Viladot](https://github.com/aviladotgibert) y
 En esta práctica enseñaré a los alumnos a usar Github para incluir proyectos en repositorios y publicar una página web como esta para poder tener un portafolio de proyectos de código.
 
 
-### PRÁCTICA GITHUB
+### PARA LA PRÁCTICA DE GITHUB:
 
-A trvés de "Markdown" de la misma forma que usabamos otros lenguajes de marcas, podemos modificar nuestra pagina de Jekyll para visualizar información como nosotros queramos que se vea. A continuación tienes las convenciones usadas para modificar tu página de Github:
+A través del lenguaje _Markdown_ de Github (de la misma forma que usabamos otros lenguajes de marcas) podemos modificar nuestra pagina de Jekyll para visualizar información como nosotros queramos que se vea aunque este también admite HTML+CSS como lenguaje. A continuación tienes las convenciones usadas para modificar tu página de Github:
 
 ```markdown
 Syntax highlighted code block
@@ -29,5 +29,14 @@ Syntax highlighted code block
 
 Para más detalles visita [Escritura básica y formateo de textos](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+<!-- Si estas viendo esto, vas bien!-->
 # Practica UF2.3: Uso de Github 
-A continuación lo que quiero que hagais es que monteis vuestro própio repositorio y creeis una web como esta de vuestro curriculum vitae que realizasteis en FOL/EIE
+A continuación lo que quiero que hagais es que monteis vuestro própio repositorio y creeis una web como esta de vuestro curriculum vitae que realizasteis en FOL/EIE con una serie de requisitos:
+- [ ] Debe contener una foto vuestra
+- [ ] Debe contener varias categorias debidamente separadas y distinguidas
+- [ ] Debe contener listas
+- [ ] Debe estar formateado el texto para _cursiva_ y **negrita**
+
+![Image](Stella.gif) 
+
+Ánimo! 👍
