@@ -29,4 +29,5 @@ Syntax highlighted code block
 
 Para más detalles visita [Escritura básica y formateo de textos](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-A continuación lo que quioero que hagais es que
+# Practica UF2.3: Uso de Github 
+A continuación lo que quiero que hagais es que monteis vuestro própio repositorio y creeis una web como esta de vuestro curriculum vitae que realizasteis en FOL/EIE
