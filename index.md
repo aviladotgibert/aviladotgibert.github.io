@@ -1,4 +1,4 @@
-##Bienvenidos a mi página de inicio
+## Bienvenidos a mi página de inicio
 
 Me presentaré, mi nombre es [Alex Viladot](https://github.com/aviladotgibert) y actualmente trabajo como profesor en los centros de [IFP formación](https://www.ifp.es/) de Hospitalet y Sants. 
 
