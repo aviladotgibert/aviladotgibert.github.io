@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+##Bienvenidos a mi página de inicio
 
-You can use the [editor on GitHub](https://github.com/aviladotgibert/aviladotgibert.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Me presentaré, mi nombre es [Alex Viladot](https://github.com/aviladotgibert) y actualmente trabajo como profesor en los centros de [IFP formación](https://www.ifp.es/) de Hospitalet y Sants. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En esta práctica enseñaré a los alumnos a usar Github para incluir proyectos en repositorios y publicar una página web como esta para poder tener un portafolio de proyectos de código.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### PRÁCTICA GITHUB
+
+A trvés de "Markdown" de la misma forma que usabamos otros lenguajes de marcas, podemos modificar nuestra pagina de Jekyll para visualizar información como nosotros queramos que se vea. A continuación tienes las convenciones usadas para modificar tu página de Github:
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +27,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Para más detalles visita [Escritura básica y formateo de textos](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aviladotgibert/aviladotgibert.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A continuación lo que quioero que hagais es que
