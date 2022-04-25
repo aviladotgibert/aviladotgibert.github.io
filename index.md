@@ -39,4 +39,6 @@ A continuación lo que quiero que hagais es que monteis vuestro própio reposito
 
 ![Image](Stella.gif) 
 
+Lo siguiente que debereis crear es una categoria dentro del CV que sea el portfolio!
+
 Ánimo! 👍
