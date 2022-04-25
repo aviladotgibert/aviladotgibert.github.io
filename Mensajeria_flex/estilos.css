@@ -1,0 +1,46 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: azure;
+}
+
+img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.mediabox {
+    border: 2px solid #8fce00;
+    padding: 5px;
+    background-image: url(fondo.jpg);
+}
+
+.media, .media2{
+    margin: 5px auto;
+    /*border: 3px solid dodgerblue;*/
+    padding: 5px;
+    display: flex;
+    border-radius: 25px;  
+    opacity: 0.9;
+}
+.media .texto {
+    flex: 1;
+    margin: 5px;
+    padding-left: 5px ;
+    
+}
+
+.media {
+    background-color: #293025;
+}
+
+.media2 .texto{
+    flex: 1;
+    text-align: right;
+    margin: 5px;
+    padding-right: 5px ;
+}
+
+.media2 {
+    flex-direction: row-reverse;
+    background-color: #398618;
+}
