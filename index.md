@@ -40,8 +40,8 @@ A continuación lo que quiero que hagais es que monteis vuestro própio reposito
 ![Image](Stella.gif) 
 
 Lo siguiente que deberéis crear es una categoría dentro del CV que sea el portfolio. Subid varias carpetas con proyectos de HTML/CSS realizados en clase o de otros lenguajes (Batch, python...) y enlazadlas en vuestro CV tal que así:
-- (Layouts de ejemplo)[/Ejemplos_layouts]
-- (Proyecto tienda flores LaBoheme)[/LaBoheme]
-- (Ejemplo de mensajeria con flex)[/Mensajeria_flex]
+- (Layouts de ejemplo)[aviladotgibert.github.io/Ejemplos_layouts]
+- (Proyecto tienda flores LaBoheme)[aviladotgibert.github.io/LaBoheme]
+- (Ejemplo de mensajeria con flex)[aviladotgibert.github.io/Mensajeria_flex]
 
 Ánimo! 👍
