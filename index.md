@@ -27,7 +27,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Para más detalles visita [Escritura básica y formateo de textos](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Para más detalles visita [Escritura básica y formateo de textos](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) o bien sigue [el siguiente tutorial](https://www.markdowntutorial.com/) 
 
 <!-- Si estas viendo esto, vas bien!-->
 # Practica UF2.3: Uso de Github 
